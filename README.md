@@ -1,0 +1,2 @@
+# fichero.js
+fichero.js
